@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6gFnfsJaFDv" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Leadership</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Leadership_ORG">
+    <organization identifier="Leadership_ORG">
+      <title>Leadership</title>
+      <item identifier="Leadership_SCO" isvisible="true" identifierref="__6gFnfsJaFDv_RES">
+        <title>Leadership</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6gFnfsJaFDv_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6DNldnFuUYB_P_112_0_1696_1271.jpg" />
+      <file href="mobile/5VM70YEfEaO_P_111_0_1824_1367.jpg" />
+      <file href="mobile/5bqkPLvJSzX_P_261_0_1544_1169.jpg" />
+      <file href="mobile/5dLlnMfYt5J_RW.png" />
+      <file href="mobile/6fhnivRSg3L_P_113_0_1820_1365.jpg" />
+      <file href="mobile/6aVJoJSyXJN_P_686_0_657_1024.png" />
+      <file href="mobile/6aVJoJSyXJN_P_1372_0_448_981.png" />
+      <file href="mobile/69GZ1VrOY5X_P_113_0_1820_1366.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape65sNKbAgvf1.png" />
+      <file href="mobile/Shape5XCkKXPJ5gB.png" />
+      <file href="mobile/Shape5XAAx4sV9KJ.png" />
+      <file href="mobile/Shape5sxn7PuS9bY.png" />
+      <file href="mobile/Shape5o9TGzMRBfq.png" />
+      <file href="mobile/Shape5oUsbMehEby.png" />
+      <file href="mobile/Shape5nTeCVYy3Ki.png" />
+      <file href="mobile/Shape5hu0xTcHZ5n.png" />
+      <file href="mobile/Shape5zASOMMddgR.png" />
+      <file href="mobile/Shape5u7mD01Q9wb.png" />
+      <file href="mobile/Shape6EloRukFWEu.png" />
+      <file href="mobile/Shape5cxLaaFHqTW.png" />
+      <file href="mobile/Shape6ICAKXXAPix.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5hsdhtAi4wE.js" />
+      <file href="html5/data/js/5llJuxNL2Oq.js" />
+      <file href="html5/data/js/61yNbyQYSWs.js" />
+      <file href="html5/data/js/62lwdWOw92w.js" />
+      <file href="html5/data/js/68bP74LNooD.js" />
+      <file href="html5/data/js/6Btsc0c1JFR.js" />
+      <file href="html5/data/js/6dtJyZS2yMr.js" />
+      <file href="html5/data/js/6gEbMpJbb6F.js" />
+      <file href="html5/data/js/6n6K3vSA16n.js" />
+      <file href="html5/data/js/6pot7T4XRoi.js" />
+      <file href="html5/data/js/6rbiSu54e3g.js" />
+      <file href="html5/data/js/6Zvcn2nl5Z7.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
